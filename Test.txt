@@ -2,10 +2,6 @@ alvin 1
 
 alvin 2
 
-<<<<<<< HEAD
 alvin 3
 
 alvin 4
-=======
-gomez 1
->>>>>>> 2nd_branch
