@@ -8,8 +8,3 @@ alvin 4
 
 alvin 5
 
-<<<<<<< HEAD
-capili 1
-=======
-gomez2
->>>>>>> 8ebecaf8fefbbf53553c855fb947fa12cf136eb6
